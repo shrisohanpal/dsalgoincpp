@@ -1,0 +1,20 @@
+a = 'a' // character
+a = "a" // string in c++
+
+# calculations takes place in higher data types
+
+^
+|   Double
+|   Float
+|   Long Long Int
+|   Long Int
+|   Int 
+|   Char
+
+# Rough range of integer: ->   -10^9 to 10^9
+                Long: =>        -10^12 to 10^12
+                Long Long : =>  -10^18 to 10^18
+
+# double d = 45435.34534
+cout<< fixed << setprecision(0) << endl;    // fixed will remove 1e5 format & setprecision -> decimal values
+// double badi values ko accurately store nhi karta.
