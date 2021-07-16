@@ -2,7 +2,6 @@ a = 'a' // character
 a = "a" // string in c++
 
 # calculations takes place in higher data types
-
 ^
 |   Double
 |   Float
@@ -18,3 +17,9 @@ a = "a" // string in c++
 # double d = 45435.34534
 cout<< fixed << setprecision(0) << endl;    // fixed will remove 1e5 format & setprecision -> decimal values
 // double badi values ko accurately store nhi karta.
+
+global arrays ki range 10^7
+local  arrays ki range 10^5
+otherwise segmentation error aa jayega
+
+  
