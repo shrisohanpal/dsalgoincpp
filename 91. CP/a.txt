@@ -10,9 +10,9 @@ a = "a" // string in c++
 |   Int 
 |   Char
 
-# Rough range of integer: ->   -10^9 to 10^9
+# Rough range of integer: ->   -10^9 to 10^9        32bit
                 Long: =>        -10^12 to 10^12
-                Long Long : =>  -10^18 to 10^18
+                Long Long : =>  -10^18 to 10^18     64bit
 
 # double d = 45435.34534
 cout<< fixed << setprecision(0) << endl;    // fixed will remove 1e5 format & setprecision -> decimal values
